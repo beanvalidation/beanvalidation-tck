@@ -1,5 +1,5 @@
 # Jakarta Bean Validation TCK
-*Version: 2.0.4.Final - 10-08-2018*
+*Version: 2.0.6 - 2020-10-06*
 
 This repository contains the Jakarta Bean Validation 2.0
 [TCK](http://en.wikipedia.org/wiki/Technology_Compatibility_Kit).
